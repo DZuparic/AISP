@@ -1,0 +1,5 @@
+﻿  zadatak.c
+C:\Users\Domba\source\repos\LV2\zadatak.c(32,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Domba\source\repos\LV2\zadatak.c(53,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Domba\source\repos\LV2\zadatak.c(62,2): warning C4098: 'main': 'void' function returning a value
+  LV2.vcxproj -> C:\Users\Domba\source\repos\LV2\x64\Debug\LV2.exe
