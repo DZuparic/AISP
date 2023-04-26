@@ -1,4 +1,0 @@
-﻿  povrhStog.c
-C:\Users\Domba\source\repos\LV3\povrhStog.c(63,31): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
-C:\Users\Domba\source\repos\LV3\povrhStog.c(94,27): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
-  LV3.vcxproj -> C:\Users\Domba\source\repos\LV3\x64\Debug\LV3.exe
